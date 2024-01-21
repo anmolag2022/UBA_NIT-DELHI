@@ -3740,3 +3740,21 @@ p b {
 .answ{
   margin: 10px;
 }
+
+
+
+#image123{
+  height: 850px;
+  width: 300px;
+}
+
+#image124{
+  height: 930px;
+  width: 560px;
+}
+
+#image125{
+  height: 800px;
+  /* width: 560px; */
+}
+
